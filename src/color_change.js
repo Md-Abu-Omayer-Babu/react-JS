@@ -12,7 +12,6 @@ function Color(){
         <>
             <h1 className="heading1">Color Change App</h1>
             <div className="box" style={{background: color}}>
-                {/* <h1>Empty</h1> */}
                 {color ? color :"White"}
             </div>
 
