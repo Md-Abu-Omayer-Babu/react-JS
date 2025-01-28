@@ -1,9 +1,12 @@
-import Color from "./color_change";
+// import Color from "./color_change";
 
 function App() {
   return (
     <>
-    <Color/>
+    <h1>
+      React Learning !!!
+      
+    </h1>
     </>
   );
 }
